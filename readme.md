@@ -16,7 +16,7 @@ The whole framework is shown as follow:
 ## Method
 This paper improves upon the trade-off between reducing constraint violations and improving expected return. The main idea is to encourgae the early exploration by adding exrta safety budgets for unsafe transitions. With the process, the extra safety budgets become very close to 0, thus meeting the safety demand gradually. Interestingly, we find that the Lyapunov-based Advantage Estimation (LAE) we propose is a novel and effective metric to evaluate the transitions in the environment.
 
-- [Project webpage](https://sites.google.com/view/dominorl/)
+- [Project webpage](https://sites.google.com/view/esb-cpo)
 
 ## Installation
 
