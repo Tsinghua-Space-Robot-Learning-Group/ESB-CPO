@@ -1,0 +1,15 @@
+__pycache__/
+.vscode/
+
+*.py[cod]
+*$py.class
+*.pyc
+
+# C extensions
+*.so
+
+.DS_Store
+esbcpo/runs*
+esbcpo/bash-run
+esbcpo.egg-info/
+*.sh

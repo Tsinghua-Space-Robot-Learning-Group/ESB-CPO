@@ -1,0 +1,6 @@
+matplotlib
+PyYAML
+tensorboard
+mpi4py
+psutil
+pandas
